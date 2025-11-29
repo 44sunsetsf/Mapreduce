@@ -1,0 +1,18 @@
+{
+  "go.buildOnSave": "off",
+  "go.lintOnSave": "off",
+  "go.vetOnSave": "off",
+  "go.testOnSave": "off",
+
+  "gopls": {
+    "directoryFilters": ["-src/main", "-src/mrapps"]
+  },
+
+  "[go]": {
+    "editor.insertSpaces": false,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit"
+    }
+  }
+}
