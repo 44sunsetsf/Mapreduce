@@ -1,11 +1,3 @@
-<div align="right">
-
-[English](#en) | [中文](#zh)
-
-</div>
-
-<a id="en"></a>
-
 # TDA596 Distributed Systems Labs (MIT 6.5840)
 
 Go implementations of the MIT 6.5840 (Distributed Systems) lab series, done as part of Chalmers' **TDA596 Distributed Systems** course.
@@ -47,9 +39,10 @@ make lab3a    # KVRaft
 make lab4a    # ShardCtrler / ShardKV
 ```
 
----
+<details>
+<summary><b>🇨🇳 中文版本（点击展开）</b></summary>
 
-<a id="zh"></a>
+<br>
 
 # TDA596 分布式系统课程实验（MIT 6.5840）
 
@@ -91,3 +84,5 @@ make lab2a    # Raft 领导者选举
 make lab3a    # KVRaft
 make lab4a    # ShardCtrler / ShardKV
 ```
+
+</details>
